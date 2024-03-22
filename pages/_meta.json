@@ -1,5 +1,14 @@
 {
-  "index": "Introduction",
+  "index": {
+    "title": "Home",
+    "theme": {
+      "breadcrumb": false,
+      "footer": false,
+      "sidebar": false,
+      "toc": false,
+      "pagination": false
+    }
+  },
   "another": "Another Page",
   "advanced": "Advanced (A Folder)",
   "about": {
